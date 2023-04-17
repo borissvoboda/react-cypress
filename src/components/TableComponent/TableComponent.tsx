@@ -1,8 +1,28 @@
-import { useState, Fragment } from "react";
-import countries from "../../../dummy-data/countries.json";
+import { Fragment, useState, useEffect } from "react";
+import { TableRow } from "../TableRow";
+
+import countriesData from "../../../dummy-data/countries.json";
 
 export const TableComponent = () => {
   const [countries, setCountries] = useState<Array<{}>>([]);
 
-  return <Fragment></Fragment>;
+  useEffect(() => {
+    setCountries(countriesData);
+  }, []);
+
+  if (countriesData.length > 0) {
+  return (
+    <Fragment>
+        <table>
+            <tbody>
+      {countries.map((country, index) => (
+        <TableRow key={index} country={country} />
+      ))}
+      </tbody>
+      </table>
+    </Fragment>
+  );
+} else {
+    return (<></>)
+}
 };

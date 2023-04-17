@@ -1,227 +1,52 @@
 [
-    {
-        "name": "Afghanistan",
-        "code": "AF",
-        "capital": "Kabul",
-        "population": "39,835,428"
-    },
-    {
-        "name": "Albania",
-        "code": "AL",
-        "capital": "Tirana",
-        "population": "2,845,955"
-    },
-    {
-        "name": "Algeria",
-        "code": "DZ",
-        "capital": "Algiers",
-        "population": "44,616,624"
-    },
-    {
-        "name": "Andorra",
-        "code": "AD",
-        "capital": "Andorra la Vella",
-        "population": "77,355"
-    },
-    {
-        "name": "Angola",
-        "code": "AO",
-        "capital": "Luanda",
-        "population": "33,955,871"
-    },
-    {
-        "name": "Antigua and Barbuda",
-        "code": "AG",
-        "capital": "St. John's",
-        "population": "98,179"
-    },
-    {
-        "name": "Argentina",
-        "code": "AR",
-        "capital": "Buenos Aires",
-        "population": "45,376,763"
-    },
-    {
-        "name": "Armenia",
-        "code": "AM",
-        "capital": "Yerevan",
-        "population": "2,970,495"
-    },
-    {
-        "name": "Australia",
-        "code": "AU",
-        "capital": "Canberra",
-        "population": "25,788,151"
-    },
-    {
-        "name": "Austria",
-        "code": "AT",
-        "capital": "Vienna",
-        "population": "8,773,686"
-    },
-    {
-        "name": "Azerbaijan",
-        "code": "AZ",
-        "capital": "Baku",
-        "population": "10,139,177"
-    },
-    {
-        "name": "Bahamas",
-        "code": "BS",
-        "capital": "Nassau",
-        "population": "396,615"
-    },
-    {
-        "name": "Bahrain",
-        "code": "BH",
-        "capital": "Manama",
-        "population": "1,732,127"
-    },
-    {
-        "name": "Bangladesh",
-        "code": "BD",
-        "capital": "Dhaka",
-        "population": "166,303,498"
-    },
-    {
-        "name": "Barbados",
-        "code": "BB",
-        "capital": "Bridgetown",
-        "population": "287,711"
-    },
-    {
-        "name": "Belarus",
-        "code": "BY",
-        "capital": "Minsk",
-        "population": "9,383,572"
-    },
-    {
-        "name": "Belgium",
-        "code": "BE",
-        "capital": "Brussels",
-        "population": "11,632,227"
-    },
-    {
-        "name": "Belize",
-        "code": "BZ",
-        "capital": "Belmopan",
-        "population": "404,914"
-    },
-    {
-        "name": "Benin",
-        "code": "BJ",
-        "capital": "Porto-Novo",
-        "population": "13,355,684"
-    },
+    {"name": "Albania", "code": "AL"},
+    {"name": "Åland Islands", "code": "AX"},
+    {"name": "Algeria", "code": "DZ"},
+    {"name": "American Samoa", "code": "AS"},
+    {"name": "Andorra", "code": "AD"},
+    {"name": "Angola", "code": "AO"},
+    {"name": "Anguilla", "code": "AI"},
+    {"name": "Antarctica", "code": "AQ"},
+    {"name": "Antigua and Barbuda", "code": "AG"},
+    {"name": "Argentina", "code": "AR"},
+    {"name": "Armenia", "code": "AM"},
+    {"name": "Aruba", "code": "AW"},
+    {"name": "Australia", "code": "AU"},
+    {"name": "Austria", "code": "AT"},
+    {"name": "Azerbaijan", "code": "AZ"},
+    {"name": "Bahamas (the)", "code": "BS"},
+    {"name": "Bahrain", "code": "BH"},
+    {"name": "Bangladesh", "code": "BD"},
+    {"name": "Barbados", "code": "BB"},
+    {"name": "Belarus", "code": "BY"},
+    {"name": "Belgium", "code": "BE"},
+    {"name": "Belize", "code": "BZ"},
+    {"name": "Benin", "code": "BJ"},
     {"name": "Bermuda", "code": "BM"},
-    {
-        "name": "Bhutan",
-        "code": "BT",
-        "capital": "Thimphu",
-        "population": "771,608"
-    },
-    {
-        "name": "Bolivia",
-        "code": "BO",
-        "capital": "La Paz",
-        "population": "11,832,159"
-    },
-    {
-        "name": "Bosnia and Herzegovina",
-        "code": "BA",
-        "capital": "Sarajevo",
-        "population": "3,273,308"
-    },
-    {
-        "name": "Botswana",
-        "code": "BW",
-        "capital": "Gaborone",
-        "population": "2,351,625"
-    },
-    {
-        "name": "Brazil",
-        "code": "BR",
-        "capital": "Brasília",
-        "population": "213,993,437"
-    },
-    {
-        "name": "Brunei",
-        "code": "BN",
-        "capital": "Bandar Seri Begawan",
-        "population": "460,345"
-    },
-    {
-        "name": "Bulgaria",
-        "code": "BG",
-        "capital": "Sofia",
-        "population": "6,894,661"
-    },
-    {
-        "name": "Burkina Faso",
-        "code": "BF",
-        "capital": "Ouagadougou",
-        "population": "21,510,181"
-    },
-    {
-        "name": "Burundi",
-        "code": "BI",
-        "capital": "Bujumbura",
-        "population": "11,530,580"
-    },
-    {
-        "name": "Cambodia",
-        "code": "KH",
-        "capital": "Phnom Penh",
-        "population": "16,718,965"
-    },
-    {
-        "name": "Cameroon",
-        "code": "CM",
-        "capital": "Yaoundé",
-        "population": "27,223,185"
-    },
-    {
-        "name": "Canada",
-        "code": "CA",
-        "capital": "Ottawa",
-        "population": "38,048,738"
-    },
-    {
-        "name": "Cape Verde",
-        "code": "CV",
-        "capital": "Praia",
-        "population": "555,987"
-    },
-    {
-        "name": "Central African Republic",
-        "code": "CF",
-        "capital": "Bangui",
-        "population": "4,918,261"
-    },
-    {
-        "name": "Chad",
-        "code": "TD",
-        "capital": "N'Djamena",
-        "population": "16,888,635"
-    },
-    {
-        "name": "Chile",
-        "code": "CL",
-        "capital": "Santiago",
-        "population": "19,144,819"
-    },
-    {
-        "name": "China",
-        "code": "CN",
-        "capital": "Beijing",
-        "population": "1,445,882,401"
-    },
-    {
-        "name": "Colombia",
-        "code": "CO",
-        "capital": "Bogotá",
-        "population": "50,882,891"
-    },
+    {"name": "Bhutan", "code": "BT"},
+    {"name": "Bolivia (Plurinational State of)", "code": "BO"},
+    {"name": "Bonaire, Sint Eustatius and Saba", "code": "BQ"},
+    {"name": "Bosnia and Herzegovina", "code": "BA"},
+    {"name": "Botswana", "code": "BW"},
+    {"name": "Bouvet Island", "code": "BV"},
+    {"name": "Brazil", "code": "BR"},
+    {"name": "British Indian Ocean Territory (the)", "code": "IO"},
+    {"name": "Brunei Darussalam", "code": "BN"},
+    {"name": "Bulgaria", "code": "BG"},
+    {"name": "Burkina Faso", "code": "BF"},
+    {"name": "Burundi", "code": "BI"},
+    {"name": "Cabo Verde", "code": "CV"},
+    {"name": "Cambodia", "code": "KH"},
+    {"name": "Cameroon", "code": "CM"},
+    {"name": "Canada", "code": "CA"},
+    {"name": "Cayman Islands (the)", "code": "KY"},
+    {"name": "Central African Republic (the)", "code": "CF"},
+    {"name": "Chad", "code": "TD"},
+    {"name": "Chile", "code": "CL"},
+    {"name": "China", "code": "CN"},
+    {"name": "Christmas Island", "code": "CX"},
+    {"name": "Cocos (Keeling) Islands (the)", "code": "CC"},
+    {"name": "Colombia", "code": "CO"},
     {"name": "Comoros (the)", "code": "KM"},
     {"name": "Congo (the Democratic Republic of the)", "code": "CD"},
     {"name": "Congo (the)", "code": "CG"},
@@ -422,5 +247,4 @@
     {"name": "Yemen", "code": "YE"},
     {"name": "Zambia", "code": "ZM"},
     {"name": "Zimbabwe", "code": "ZW"}
-
-]
+  ]
