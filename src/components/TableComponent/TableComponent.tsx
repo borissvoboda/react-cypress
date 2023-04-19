@@ -1,10 +1,11 @@
-import { Fragment, useState, useEffect } from "react";
+import React, { Suspense, Fragment, useState, useEffect } from "react";
 import { TableRow } from "../TableRow";
 
 import countriesData from "../../../dummy-data/countries.json";
 
 export const TableComponent = () => {
   const [countries, setCountries] = useState<Array<{}>>([]);
+  const [countriesSlice, setCountriesSlice] = useState<Array<{}>>([]);
 
   useEffect(() => {
     setCountries(countriesData);
